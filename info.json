@@ -1,0 +1,25 @@
+{
+    "name": "exotic-industries-modpack",
+    "version": "0.0.1",
+    "title": "Exotic Industries: Official Modpack",
+    "author": "PreLeyZero",
+    "factorio_version": "1.1",
+    "description": "The official modpack for the Exotic-Industries mod series. Only contains the recommended mods as dependencies.",
+    "dependencies": [
+        "base >= 1.0.0",
+        "exotic-industries",
+        "exotic-industries-graphics",
+        "exotic-industries-loaders",
+        "exotic-industries-containers",
+        "exotic-industries-robots",
+        "SpidertronPatrols",
+        "SpidertronEnhancements",
+        "Constructron-Continued",
+        "RemoteConfiguration",
+        "informatron",
+        "Nanobots",
+        "FluidMustFlow",
+        "Flow Control",
+        "botReplacer"
+    ]
+}
