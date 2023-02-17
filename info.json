@@ -20,6 +20,10 @@
         "Nanobots",
         "FluidMustFlow",
         "Flow Control",
-        "botReplacer"
+        "botReplacer",
+        "train-upgrader",
+        "textplates",
+        "IndustrialDisplayPlates",
+        "Milestones"
     ]
 }
