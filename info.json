@@ -24,6 +24,7 @@
         "train-upgrader",
         "textplates",
         "IndustrialDisplayPlates",
-        "Milestones"
+        "Milestones",
+        "Teleporters"
     ]
 }
