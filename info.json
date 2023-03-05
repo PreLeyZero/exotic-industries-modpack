@@ -25,6 +25,9 @@
         "textplates",
         "IndustrialDisplayPlates",
         "Milestones",
-        "Teleporters"
+        "Teleporters",
+        "ArmouredBiters",
+        "Explosive_biters",
+        "Toxic_biters"
     ]
 }
