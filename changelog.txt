@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 22.03.2023
+  Features:
+    - added dependency for exotic-industries-fueler
+    - added dependency for Fluid-level-indicator
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 10.03.2023
   Features:

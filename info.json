@@ -13,6 +13,7 @@
         "exotic-industries-containers",
         "exotic-industries-robots",
         "exotic-industries-tanks",
+        "exotic-industries-fueler",
         "SpidertronPatrols",
         "SpidertronEnhancements",
         "Constructron-Continued",
@@ -29,6 +30,7 @@
         "Teleporters",
         "ArmouredBiters",
         "Explosive_biters",
-        "Toxic_biters"
+        "Toxic_biters",
+        "Fluid-level-indicator"
     ]
 }
