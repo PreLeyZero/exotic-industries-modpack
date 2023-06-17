@@ -1,5 +1,12 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.1.0
+Version: 0.1.2
+Date: 17.06.2023
+  Features:
+    - added dependency for cheese solar mod
+  Changes:
+    - changed to https://mods.factorio.com/mod/DisplayPlates, manuall migration may be needed 
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
 Date: 22.03.2023
   Features:
     - added dependency for exotic-industries-fueler
