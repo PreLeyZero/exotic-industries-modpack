@@ -1,6 +1,6 @@
 {
     "name": "exotic-industries-modpack",
-    "version": "0.5.2",
+    "version": "0.5.10",
     "title": "Exotic Industries: Official Modpack",
     "author": "PreLeyZero",
     "factorio_version": "1.1",
@@ -14,6 +14,7 @@
         "exotic-industries-robots",
         "exotic-industries-tanks",
         "exotic-industries-fueler",
+        "exotic-industries-trains",
         "SpidertronPatrols",
         "SpidertronEnhancements",
         "Constructron-Continued",
@@ -28,12 +29,15 @@
         "DisplayPlates",
         "Milestones",
         "Teleporters",
-        "ArmouredBiters",
-        "Explosive_biters",
-        "Toxic_biters",
         "Fluid-level-indicator",
         "ch-concentrated-solar",
         "better-victory-screen",
-        "aai-signal-transmission"
+        "aai-signal-transmission",
+        "ChangeInserterDropLane",
+        "extra-storage-tank",
+        "extra-storage-tank-minibuffer",
+        "?ArmouredBiters",
+        "?Explosive_biters",
+        "?Toxic_biters"
     ]
 }
