@@ -9,6 +9,7 @@
         "base >= 1.0.0",
         "exotic-industries",
         "exotic-industries-graphics",
+        "exotic-industries-graphics-2",
         "exotic-industries-loaders",
         "exotic-industries-containers",
         "exotic-industries-robots",
